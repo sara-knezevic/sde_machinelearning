@@ -1,2 +1,2 @@
 # RSD1IML
-Machine Learning course notebooks and problems
+Machine Learning course notebooks and problems.
